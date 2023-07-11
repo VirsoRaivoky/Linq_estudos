@@ -1,0 +1,10 @@
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPExtensions\bin\Debug\netstandard2.1\TCPExtensions.deps.json
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPExtensions\bin\Debug\netstandard2.1\TCPExtensions.dll
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPExtensions\bin\Debug\netstandard2.1\TCPExtensions.pdb
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPExtensions\obj\Debug\netstandard2.1\TCPExtensions.csproj.AssemblyReference.cache
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPExtensions\obj\Debug\netstandard2.1\TCPExtensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPExtensions\obj\Debug\netstandard2.1\TCPExtensions.AssemblyInfoInputs.cache
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPExtensions\obj\Debug\netstandard2.1\TCPExtensions.AssemblyInfo.cs
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPExtensions\obj\Debug\netstandard2.1\TCPExtensions.csproj.CoreCompileInputs.cache
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPExtensions\obj\Debug\netstandard2.1\TCPExtensions.dll
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPExtensions\obj\Debug\netstandard2.1\TCPExtensions.pdb

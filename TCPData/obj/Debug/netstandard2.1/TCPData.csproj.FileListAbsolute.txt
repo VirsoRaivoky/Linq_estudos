@@ -1,0 +1,10 @@
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPData\bin\Debug\netstandard2.1\TCPData.deps.json
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPData\bin\Debug\netstandard2.1\TCPData.dll
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPData\bin\Debug\netstandard2.1\TCPData.pdb
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPData\obj\Debug\netstandard2.1\TCPData.csproj.AssemblyReference.cache
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPData\obj\Debug\netstandard2.1\TCPData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPData\obj\Debug\netstandard2.1\TCPData.AssemblyInfoInputs.cache
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPData\obj\Debug\netstandard2.1\TCPData.AssemblyInfo.cs
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPData\obj\Debug\netstandard2.1\TCPData.csproj.CoreCompileInputs.cache
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPData\obj\Debug\netstandard2.1\TCPData.dll
+C:\Users\Wilso\Documents\Projetos\C#\LINQ-Estudos\TCPData\obj\Debug\netstandard2.1\TCPData.pdb
